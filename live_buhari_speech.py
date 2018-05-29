@@ -89,4 +89,4 @@ class listener(StreamListener):
 
 
 twitterStream=  Stream(auth, listener(count))
-twitterStream.filter(track=["Buhari speech"])
+twitterStream.filter(track=["Buhari Democracy speech"])
