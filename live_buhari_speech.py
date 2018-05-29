@@ -31,10 +31,10 @@ plt.ion()
 
 #import test
 
-ckey= 'MfHOLQyQPV5KeqVvjxxzuYojE'
-csecret= 'gx6oOowVOK62DOzCiCZKGe9xhZTrb2lBKM0TqubUolOTQ2Ha1Y'
-atoken= '286628126-VsPQlCRcVTqX3k1li9DNIA73K5cXZiZOkjFWfKa8'
-asecret= 'vdGsYcDRGNbWLVpcrcTtHSG7Vcz0CyWIkgWTOvn8zpd87'
+ckey= '*******************************'
+csecret= '*******************************'
+atoken= '*******************************'
+asecret= '*******************************'
 
 auth=OAuthHandler(ckey,csecret)
 auth.set_access_token(atoken,asecret)
